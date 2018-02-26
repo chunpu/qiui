@@ -19,3 +19,12 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# 参考项目
+
+- [awesome-vue#mobile](https://github.com/vuejs/awesome-vue#mobile)
+- [mint-ui](http://mint-ui.github.io/docs/#/zh-cn2/)
+- [weui](https://weui.io/)
+- [mobile.ant.design](https://mobile.ant.design/docs/react/introduce-cn)
+- [clair](https://github.com/clair-design/clair)
+- [Keen-UI](https://github.com/JosephusPaye/Keen-UI)

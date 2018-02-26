@@ -3,8 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import qiui from './qiui'
+// import {Button} from './qiui'
 
 Vue.config.productionTip = false
+
+Vue.use(qiui)
 
 /* eslint-disable no-new */
 new Vue({

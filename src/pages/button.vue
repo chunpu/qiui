@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-button
+    <qi-button></qi-button>
   </div>
 </template>
 
