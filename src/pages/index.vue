@@ -1,7 +1,14 @@
 <template>
-  <div class="hello">
-    <router-link to="/button">button</router-link>
-    <router-link to="/cell">cell</router-link>
+  <div>
+    <qi-cells>
+      <qi-cell to="/button" title="button"></qi-cell>
+      <qi-cell to="/cell" title="cell"></qi-cell>
+      <qi-cell title="navbar" desc="未完成"></qi-cell>
+      <qi-cell title="toast"></qi-cell>
+      <qi-cell title="card"></qi-cell>
+      <qi-cell title="form"></qi-cell>
+      <qi-cell title="modal"></qi-cell>
+    </qi-cells>
   </div>
 </template>
 
